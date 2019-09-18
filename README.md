@@ -6,7 +6,8 @@ Echart 官网 - 术语速查手册：  https://echarts.apache.org/zh/cheat-sheet
 获取 ECharts：
 使用了 npm 的方式获取:  npm install echarts --save 
 
-HTML 中使用 Echarts，在 <head></head> 内加入 js 引入代码：
+HTML 中使用 Echarts，在 head 标签内加入 js 引入代码：
+
     <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/echarts-all-3.js"></script>    
     <script src="echarts.min.js"></script>
   
