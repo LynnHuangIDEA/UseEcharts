@@ -12,7 +12,8 @@
     <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/echarts-all-3.js"></script>    
     <script src="echarts.min.js"></script>
   
-4.创建自己的 AK 
+4.创建自己的 AK ：
+
 A.错误提示:
 百度未授权使用地图API，可能是因为您提供的密钥不是有效的百度LBS开放平台密钥，或此密钥未对本应用的百度地图JavaScriptAPI授权。您可以访问如下网址了解如何获取有效的密钥：http://lbsyun.baidu.com/apiconsole/key# 
 
